@@ -1,0 +1,6 @@
+Image name,ArUco ID,"(x,y)Object-1","(x,y)Object-2"
+ArUco1.jpg,5,"(688, 235)","(735, 571)"
+ArUco2.jpg,19,"(484, 591)","(1049, 200)"
+ArUco3.jpg,140,None,"(646, 241)"
+ArUco4.jpg,900,"(1045, 190)","(1053, 527)"
+ArUco5.jpg,249,"(1049, 200)","(306, 592)"
